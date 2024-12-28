@@ -18,4 +18,4 @@ Instructions
 Save the script as a file (e.g., bike_rental.sh).
 Make the script executable: chmod +x bike_rental.sh
 Run the script: ./bike_rental.sh
-Note: This is a basic example and can be extended to include additional features such as tracking rental duration, calculating fees, and managing different bike types.
+Note: This is a basic example and can be extended to include additional features such as tracking rental duration, calculating fees, and managing different bike types...

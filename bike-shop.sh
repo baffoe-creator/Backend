@@ -156,7 +156,8 @@ fi
 }
 
 EXIT() {
-  echo -e "\nThank you for stopping in.\n"
+  echo -e "\nThank you for stopping in :-).\n"
 }
 
 MAIN_MENU
+
